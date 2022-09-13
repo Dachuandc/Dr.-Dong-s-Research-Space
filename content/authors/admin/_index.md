@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Weichuan Dong
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Spatial Epidemilogist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Case Western Reserve University School of Medicine
+    url: https://case.edu/medicine/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a lifetime learner with a commitment to using geospatial approaches in understanding health disparities. My recent interest is in investigating geographic variations of cancer diagnosis (i.e., later-stage diagnosis and access to screening services) and treatments (i.e., delayed time to treatment initiation, breast cancer conserving therapy, and breast reconstruction surgery) to understand the cause of cancer disparities using statistical, geographic, and machine learning methods.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Epidemiology
+  - Health Disparities
+  - Geographic Information Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geography
+      institution: Kent State University
+      year: 2021
+    - course: Master of Arts in Geography
+      institution: The State University of New York at Buffalo
+      year: 2015
+    - course: Applied Mathematics
+      institution: Heilongjiang University of Technology
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a lifetime learner with a commitment to using geospatial approaches in understanding health disparities. My recent interest is in investigating geographic variations of cancer diagnosis (i.e., later-stage diagnosis and access to screening services) and treatments (i.e., delayed time to treatment initiation, breast cancer conserving therapy, and breast reconstruction surgery) to understand the cause of cancer disparities using statistical, geographic, and machine learning methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
