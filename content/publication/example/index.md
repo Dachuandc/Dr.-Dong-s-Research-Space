@@ -1,20 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'Geospatial Approaches to Cancer Outcomes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  #- Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-12-20T00:00:00Z'
+doi: 'https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=kent1637326684344805&disposition=inline'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -29,10 +29,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cancer epidemiology has a long history of applying geographic thinking to address longstanding place-based disparities. This dissertation adds new knowledge to geospatial approaches to social determinants of cancer outcomes. It establishes a framework consisting of three dimensions in evaluating, identifying, and prioritizing spatially heterogeneous risk factors of cancer outcomes. The first dimension is protection. Using a space-time statistic, the first study evaluated whether a non-spatial healthcare policy, Medicaid expansion, has offered protection targeting spatially vulnerable populations against adverse cancer outcomes such as breast cancer late-stage diagnosis. The second dimension is phenotype. Using a classification and regression tree, the study disentangled how risk factors of late-stage breast cancer diagnosis were conceptualized and capsulized as phenotypes that labeled groups of homogenous geographic areas. It provides a novel angle to uncover cancer disparities and to provide insights for cancer surveillance, prevention, and control. The third dimension is priority. Using a geographic random forest along with several validation methods, the study emphasized the importance of the competing effect among risk factors of cancer mortality that are specific to geographic areas. The findings from this study can be used directly for priority settings in addressing the most urgent issues associated with cancer mortality. This dissertation demonstrated that geographic methodologies and frameworks are useful and are imperative to cancer epidemiology. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 

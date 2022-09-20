@@ -41,5 +41,5 @@ publishDate: '2022-09-13T03:56:29.548563Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Medical Care (In Press)*'
+publication: '*Medical Care*'
 ---
