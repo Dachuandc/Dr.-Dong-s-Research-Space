@@ -2,7 +2,7 @@
 # Display name
 title: Weichuan Dong
 
-# Is this the primary user of the site?
+# Is this the primary user of the site?S-
 superuser: true
 
 # Role/position/tagline
